@@ -1,0 +1,11 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/
+cloud_firestore_web=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.1.1+2/
+firebase_core=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3/
+firebase_core_web=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+fluttertoast=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/
+path_provider=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.7/
+path_provider_macos=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+1/
+shared_preferences=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7/
+shared_preferences_macos=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+7/
+shared_preferences_web=/Users/akash/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/
