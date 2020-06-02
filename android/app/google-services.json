@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38421396555",
+    "firebase_url": "https://cttgfahrer.firebaseio.com",
+    "project_id": "cttgfahrer",
+    "storage_bucket": "cttgfahrer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38421396555:android:28b749382635040db3e1ce",
+        "android_client_info": {
+          "package_name": "com.akashapplications.cttgfahrer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38421396555-cc25id4010ggbf2krd5jtnqrlrhgk37i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvxImW8euCUi5_aEN1EGmyoEfERneVwc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38421396555-cc25id4010ggbf2krd5jtnqrlrhgk37i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38421396555-fbr86jd1v6od2jl94tilft5truvq69b8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akashapplications.cttgfahrer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
